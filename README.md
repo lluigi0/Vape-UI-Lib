@@ -1,2 +1,5 @@
 # Vape UI
-Library i use on my GUI
+
+---
+
+- •**The library I use on my GUIs**
