@@ -2,4 +2,4 @@
 
 ---
 
-- •**The library I use on my GUIs**
+- -**A good library and easy to understand if you are new to creating them 
